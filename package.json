@@ -1,0 +1,14 @@
+{
+  "name": "base64-to-mp3",
+  "version": "1.0.0",
+  "description": "Small Express API to convert base64-encoded MP3 data to an MP3 file",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
+
+
